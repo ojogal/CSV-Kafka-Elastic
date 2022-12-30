@@ -1,0 +1,5 @@
+kafka-python
+Flask
+csv_to_json
+elasticsearch
+requests

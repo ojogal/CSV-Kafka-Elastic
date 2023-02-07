@@ -1,5 +1,3 @@
-# Useless but higly paid shit
-
 ## Installation
 ### Install OpenJDK
 ```
